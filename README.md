@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Halimahiyanda
+- 👋 Hi, I’m @Shadiat
 - 👀 I’m interested in upskilling my skills
-- 🌱 I’m currently learning R
+- 🌱 I’m currently learning R and SQL
 - 💞️ I’m looking to collaborate on different content.
 - 📫 How to reach me - iyandahalimah@gmail.com
 
